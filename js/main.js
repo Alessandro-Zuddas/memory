@@ -29,3 +29,5 @@ function Control(){
 function ReFlip(){
     setTimeout(Control,1500);
 }
+
+console.log("Prova creazione fork Alessandro");
